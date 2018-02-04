@@ -1,0 +1,5 @@
+Using R to Introduce Students to Principle Component Analysis, Cluster Analysis, and Multiple Linear Regression
+
+A common experiment in the many undergraduate courses in analytical chemistry is the quantitative analysis of a two-component mixture by UV/Visible spectrophotometry. The analysis typically involves measuring a sample's absorbance at two wavelengths, determining the molar absorptivity for each analyte and each wavelength, and using Beer's law to solve for the concentration of the two analytes simultaneously. Rarely is this analysis extended to more than two components or to data collected at more wavelengths than there are analytes. In this presentation, we will consider how to use the analysis of multicomponent mixtures to introduce undergraduate students to principal component analysis, cluster analysis, and multiple linear regression using the statistical programming language R.
+
+
